@@ -1,0 +1,98 @@
+body {
+  background-color: rgb(80, 200, 200);
+}
+
+.container {
+  width: 1086px;
+  border: 1px salmon solid;
+  text-align: left;
+}
+
+.h1 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 65px;
+  color: #003ecb;
+}
+
+.head {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 28px;
+  line-height: 42px;
+  color: #828282;
+}
+
+.divAllCard{
+    display: flex;
+}
+
+.divOneCard {
+  width: 490px;
+  height: 325px;
+  background-color: white;
+  display: flex;
+  padding: 24px 24px;
+}
+
+.textName {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #000000;
+}
+
+.textAge {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  color: #828282;
+}
+
+.cardRight {
+  padding-left: 24px;
+}
+
+.textHead {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.textStar {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 24px;
+  color: #fe9d17;
+}
+
+.textText {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.textAll {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 19px;
+  color: #bdbdbd;
+}

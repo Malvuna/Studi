@@ -1,0 +1,10 @@
+
+body{
+ width: 1086px;
+ background-color: rgb(80, 200, 200);
+}
+
+main {
+    margin: 0 auto;
+    bottom: 1;
+}
